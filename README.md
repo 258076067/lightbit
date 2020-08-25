@@ -1,4 +1,4 @@
 # LightBit
 ## We build small but useful apps.
 
-* Official website is coming soon
+* Please contact us at: davetech.app@gmail.com
